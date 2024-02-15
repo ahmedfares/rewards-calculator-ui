@@ -1,0 +1,15 @@
+.rewardCalculator {
+  background-color: #f6f6f6;
+  border-radius: 5px;
+}
+
+.heading {
+  color: #888;
+  font-size: 1.2rem;
+  margin-bottom: 8px;
+}
+
+.points {
+  color: #333;
+  font-size: 1.3rem;
+}

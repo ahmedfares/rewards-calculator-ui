@@ -1,0 +1,23 @@
+.customerList {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.heading {
+  color: #555;
+  font-size: 1.5rem;
+}
+
+.customer {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.customerName {
+  color: #333;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}

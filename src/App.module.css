@@ -1,0 +1,10 @@
+.app {
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+.heading {
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
